@@ -19,5 +19,4 @@ Here's a walkthrough of how the app functions:
 GIF created with [Recordit](https://recordit.co).
 
 ### Notes
-Describe any challenges encountered while building the app.
--I kept getting errors with the MoviesGridCell file, there were small typos as well as an incorrect link that initially resulted in my movie list not popping up in my superhero tab.
+- A challenge I faced while creating this was that I kept getting errors with the MoviesGridCell file, there were small typos as well as an incorrect link that initially resulted in my movie list not popping up in my superhero tab.
